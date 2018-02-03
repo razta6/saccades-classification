@@ -318,7 +318,7 @@ class Subject:
                     trial.set_stim_type(msg[4])
 
                     if parser.is_int(msg[5]):
-                        trial.stim_type_ind(float(msg[5]))
+                        trial.set_stim_type_ind(int(msg[5]))
 
     def check_validity(self):
         return True
@@ -423,6 +423,15 @@ class Trial:
             x, y = sample.xy()
             result.append([ts, x, y])
         return result
+
+    def to_array(self, just_valids=True):
+        sample_array = np.zeros((STIM_HEIGHT, STIM_WIDTH))
+        samples = self.tolist(just_valids)
+        for sample in samples:
+            x = sample[1] - (SCREEN_WIDTH/2) + (STIM_WIDTH/2)
+            y = sample[2] - (SCREEN_HEIGHT/2) + (STIM_HEIGHT/2)
+            sample_array[int(x)][int(y)] += 1
+        return sample_array
 
     # TODO: getters and setters
     def get_samples(self, just_valids=True):
