@@ -1,5 +1,0 @@
-subjectID	runtrial	onsettime	Name	Ranking	RT	StimType	StimTypeInd
-bmem_short_998	1	2.601882e-03	301_benet_naftali.jpg	9.973083e+00	2.916157e+00	FamiliarFaces	6
-bmem_short_998	2	4.519933e+00	112_peretz_amir.jpg	9.387817e+00	1.253696e+00	FamiliarFaces	6
-bmem_short_998	3	9.024820e+00	214_piron_shai.jpg	9.811462e+00	9.570495e-01	FamiliarFaces	6
-bmem_short_998	4	1.353004e+01	308_hotovely_tzipi.jpg	9.636963e+00	1.196904e+00	FamiliarFaces	6

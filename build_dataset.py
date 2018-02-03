@@ -4,13 +4,10 @@ import logging
 from experiment_parser import *
 
 
-EXP_NAME = 'Familiar_Faces_II'
-DATA_FOLDER = 'scale_ranking_familiar_faces_data'
+EXP_NAME = 'scale_ranking_bmm_short'
+DATA_FOLDER = EXP_NAME + '_data'
 
-SUBJECT_NUM = 0
-TRIAL_NUM = 0
-
-PICKLE_FILE = 'scale_ranking_familiar_faces.pik'
+PICKLE_FILE = EXP_NAME + '.pik'
 
 RUN_PARSER = False
 

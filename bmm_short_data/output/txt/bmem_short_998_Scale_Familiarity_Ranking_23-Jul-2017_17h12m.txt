@@ -1,5 +1,0 @@
-subjectID	runtrial	onsettime	Name	Ranking	RT	StimType	StimTypeInd
-bmem_short_998	1	2.815806e-03	207_lapid_yair.jpg	9.939819e+00	2.472964e+00	FamiliarFaces	6
-bmem_short_998	2	4.518963e+00	208_livnee_zipi.jpg	9.650024e+00	1.979793e+00	FamiliarFaces	6
-bmem_short_998	3	9.024057e+00	216_sharom_ariel.jpg	9.839966e+00	1.874589e+00	FamiliarFaces	6
-bmem_short_998	4	1.352898e+01	102_beneliezer_binyamin.jpg	9.842712e+00	1.281596e+00	FamiliarFaces	6

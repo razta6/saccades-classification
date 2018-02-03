@@ -1,5 +1,0 @@
-subjectID	runtrial	onsettime	Name	Ranking	RT	StimType	StimTypeInd
-bmem_short_998	1	2.686820e-04	118_yacimovich_shelly.jpg	9.569031e+00	2.683399e+00	FamiliarFaces	6
-bmem_short_998	2	4.503309e+00	113_rosenthal_mickey.jpg	5.276978e+00	2.260317e+00	FamiliarFaces	6
-bmem_short_998	3	9.008289e+00	307_hazan_oren.jpg	9.426514e+00	1.084722e+00	FamiliarFaces	6
-bmem_short_998	4	1.351334e+01	117_tibi_ahmed.jpg	7.736694e+00	2.874315e+00	FamiliarFaces	6

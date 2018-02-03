@@ -5,8 +5,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 
-from scatter_to_gauss import *
-
 
 TRIAL_START = 'TrialStart'
 TRIAL_END = 'ScaleStart'
@@ -40,10 +38,6 @@ class Experiment:
         self.parse_folder()
 
         self.exp_post_process()
-
-        if self.valid:
-            extract_gaussians(self)
-            self.exp_post_process()  # another pos-processing after cluster extraction
 
         if not self.valid:  # it's not an else statement because of the cluster extraction
             logging.warning('EXPERIMENT INVALID')
@@ -82,7 +76,8 @@ class Experiment:
             logging.info('Folder name: ' + self.data)
             print('File type: ' + ext)
             logging.info('File type: ' + ext)
-            folder = os.path.join(self.data, ext)
+            output_folder = os.path.join(self.data, 'output')
+            folder = os.path.join(output_folder, ext)
             for fname in os.listdir(folder):
                 if not fname.endswith(ext):
                     continue
