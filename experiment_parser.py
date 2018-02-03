@@ -635,10 +635,10 @@ class Sample:
         # check if the sample is on the stimulus
         x = self.x - (SCREEN_WIDTH/2) + (STIM_WIDTH/2)
         y = self.y - (SCREEN_HEIGHT/2) + (STIM_HEIGHT/2)
-        if x < 0 or x > STIM_WIDTH:
+        if x < 0 or x >= STIM_WIDTH:
             self.valid = False
             self.error += 'Sample x dim is outside stimulus width.'
-        if y < 0 or y > STIM_HEIGHT:
+        if y < 0 or y >= STIM_HEIGHT:
             self.valid = False
             self.error += 'Sample y dim is outside stimulus height.'
         return self.valid
