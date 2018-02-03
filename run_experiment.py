@@ -3,6 +3,9 @@ import logging
 
 from experiment_parser import *
 
+from datasets import pixel_data
+from models import LeNet
+
 
 EXP_NAME = 'scale_ranking_bmm_short'
 DATA_FOLDER = EXP_NAME + '_data'
@@ -31,11 +34,9 @@ except FileNotFoundError:
     experiment = parse_and_save()
 
 
-subjects = experiment.get_subjects()
-stims = experiment.stim_list
+trials = experiment.get_trials(list_type='all')
+X, Y = pixel_data.create_dataset(trials)
 
-sub = 0
-stim = 0
 
 print('Opening shell...')
 print('')
