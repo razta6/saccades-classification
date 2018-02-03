@@ -1,0 +1,5 @@
+subjectID	runtrial	onsettime	Name	Ranking	RT	StimType	StimTypeInd
+bmem_short_998	1	2.907103e-03	140.jpg	3.327759e+00	3.521259e+00	Fractals	3
+bmem_short_998	2	6.506535e+00	2006.jpg	2.409912e+00	3.303999e+00	Faces	2
+bmem_short_998	3	1.301383e+01	107.jpg	7.083618e+00	3.444420e+00	Fractals	3
+bmem_short_998	4	1.952123e+01	144.jpg	7.805176e-01	3.065032e+00	Fractals	3

@@ -1,0 +1,5 @@
+subjectID	runtrial	onsettime	Name	Ranking	RT	StimType	StimTypeInd
+bmem_short_998	1	2.707208e-03	306_gafni_moshe.jpg	2.856628e+00	3.214348e+00	FamiliarFaces	6
+bmem_short_998	2	4.505257e+00	201_baron_roni.jpg	5.973511e+00	2.651543e+00	FamiliarFaces	6
+bmem_short_998	3	9.010344e+00	116_shmuli_itzik.jpg	999	999	FamiliarFaces	6
+bmem_short_998	4	1.501745e+01	217_shelach_ofer.jpg	8.857544e+00	2.387695e+00	FamiliarFaces	6

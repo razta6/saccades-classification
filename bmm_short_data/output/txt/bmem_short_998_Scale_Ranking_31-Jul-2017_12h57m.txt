@@ -1,0 +1,5 @@
+subjectID	runtrial	onsettime	Name	Ranking	RT	StimType	StimTypeInd
+bmem_short_998	1	7.115217e-03	108_khenin_dov.jpg	2.621033e+00	3.430132e+00	FamiliarFaces	6
+bmem_short_998	2	6.512640e+00	316_saar_gidon.jpg	1.675354e+00	2.765323e+00	FamiliarFaces	6
+bmem_short_998	3	1.301986e+01	207_lapid_yair.jpg	8.258118e+00	3.074050e+00	FamiliarFaces	6
+bmem_short_998	4	1.952711e+01	1145.jpg	3.136353e+00	2.918538e+00	Faces	2
