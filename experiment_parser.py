@@ -12,8 +12,8 @@ TRIAL_END = 'ScaleStart'
 SCREEN_HEIGHT = 1080
 SCREEN_WIDTH = 1920
 
-STIM_HEIGHT = 420
-STIM_WIDTH = 280
+STIM_HEIGHT = 400
+STIM_WIDTH = 400
 
 MIN_SAMPLES_PER_TRIAL = 10
 
@@ -286,8 +286,8 @@ class Subject:
             subject_check = False  # check once if the subject in the file corresponds to our subject
 
             for line in f:
-                if line.startswith('BMI'):
-                    id, msg = parser.parse_bmi(line)
+                if line.startswith('bmem_short'):
+                    id, msg = parser.parse_txt_line(line)
                     if not subject_check:
                         if parser.is_int(id):
                             id = int(id)
@@ -314,6 +314,11 @@ class Subject:
 
                     if parser.is_float(msg[3]):
                         trial.set_rt(float(msg[3]))
+
+                    trial.set_stim_type(msg[4])
+
+                    if parser.is_int(msg[5]):
+                        trial.stim_type_ind(float(msg[5]))
 
     def check_validity(self):
         return True
@@ -390,6 +395,9 @@ class Trial:
         self.bid = -1
         self.adjusted_bid = -11
         self.binary_bid = -1
+
+        self.stim_type = ''
+        self.stim_type_ind = 0
 
         self.samples = []
         self.clusters = []  # to be updated after clustering
@@ -472,6 +480,12 @@ class Trial:
 
     def set_rt(self, rt):
         self.rt = rt
+
+    def set_stim_type(self, stim_type):
+        self.stim_type = stim_type
+
+    def set_stim_type_ind(self, stim_type_ind):
+        self.stim_type_ind = stim_type_ind
 
     # parse list ['ScaleStart', 'TaskBDM', 'Run001', 'Trial001', 'Time2.1339']
     def trial_init(self, flag):
@@ -631,10 +645,10 @@ class LineParser:
         flag = msg[2].split('_')
         return msg[1], flag[1:]
 
-    def parse_bmi(self, line):
+    def parse_txt_line(self, line):
         msg = line.split()
         id_str = msg[0].split('_')
-        return id_str[-1], msg[2:6]
+        return id_str[-1], msg[2:]
 
     def is_int(self, num):
         try:

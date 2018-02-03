@@ -2,401 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69b00cd3-5eeb-445c-ae83-d88570edd0d6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_101_Scale_Ranking_02-Aug-2017_8h58m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_104_Scale_Ranking_02-Aug-2017_11h20m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_105_Scale_Ranking_02-Aug-2017_14h37m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_106_Scale_Ranking_02-Aug-2017_14h43m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_107_Scale_Ranking_03-Aug-2017_10h31m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_108_Scale_Ranking_03-Aug-2017_12h30m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_109_Scale_Ranking_03-Aug-2017_15h27m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_110_Scale_Ranking_06-Aug-2017_8h34m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_111_Scale_Ranking_06-Aug-2017_10h56m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_112_Scale_Ranking_07-Aug-2017_10h8m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_113_Scale_Ranking_09-Aug-2017_11h14m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_115_Scale_Ranking_14-Aug-2017_12h8m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_116_Scale_Ranking_15-Aug-2017_10h39m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_117_Scale_Ranking_15-Aug-2017_11h11m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_122_Scale_Ranking_29-Aug-2017_10h24m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_123_Scale_Ranking_29-Aug-2017_10h28m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_125_Scale_Ranking_29-Aug-2017_12h22m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_126_Scale_Ranking_29-Aug-2017_14h8m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_127_Scale_Ranking_31-Aug-2017_9h58m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_128_Scale_Ranking_04-Sep-2017_10h29m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_129_Scale_Ranking_04-Sep-2017_11h44m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_130_Scale_Ranking_04-Sep-2017_12h56m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_131_Scale_Ranking_04-Sep-2017_13h46m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_132_Scale_Ranking_04-Sep-2017_14h55m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_133_Scale_Ranking_07-Sep-2017_11h52m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_134_Scale_Ranking_07-Sep-2017_14h25m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_135_Scale_Ranking_10-Sep-2017_10h55m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_137_Scale_Ranking_11-Sep-2017_14h30m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_138_Scale_Ranking_12-Sep-2017_10h27m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_139_Scale_Ranking_13-Sep-2017_11h49m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_141_Scale_Ranking_28-Sep-2017_15h19m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_142_Scale_Ranking_02-Oct-2017_11h42m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_143_Scale_Ranking_02-Oct-2017_12h33m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_990_Scale_Ranking_31-Jul-2017_16h59m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/asc/bmem_short_998_Scale_Ranking_23-Jul-2017_17h48m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_101_Scale_Ranking_02-Aug-2017_8h58m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_101_Scale_Ranking_02-Aug-2017_8h58m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_104_Scale_Ranking_02-Aug-2017_11h20m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_104_Scale_Ranking_02-Aug-2017_11h20m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_105_Scale_Ranking_02-Aug-2017_14h37m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_105_Scale_Ranking_02-Aug-2017_14h37m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_106_Scale_Ranking_02-Aug-2017_14h43m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_106_Scale_Ranking_02-Aug-2017_14h43m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_107_Scale_Ranking_03-Aug-2017_10h31m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_107_Scale_Ranking_03-Aug-2017_10h31m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_108_Scale_Ranking_03-Aug-2017_12h30m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_108_Scale_Ranking_03-Aug-2017_12h30m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_109_Scale_Ranking_03-Aug-2017_15h27m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_109_Scale_Ranking_03-Aug-2017_15h27m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_110_Scale_Ranking_06-Aug-2017_8h34m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_110_Scale_Ranking_06-Aug-2017_8h34m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_111_Scale_Ranking_06-Aug-2017_10h56m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_111_Scale_Ranking_06-Aug-2017_10h56m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_112_Scale_Ranking_07-Aug-2017_10h8m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_112_Scale_Ranking_07-Aug-2017_10h8m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_113_Scale_Ranking_09-Aug-2017_11h14m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_113_Scale_Ranking_09-Aug-2017_11h14m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_115_Scale_Ranking_14-Aug-2017_12h8m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_115_Scale_Ranking_14-Aug-2017_12h8m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_116_Scale_Ranking_15-Aug-2017_10h39m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_116_Scale_Ranking_15-Aug-2017_10h39m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_117_Scale_Ranking_15-Aug-2017_11h11m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_117_Scale_Ranking_15-Aug-2017_11h11m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_118_Scale_Ranking_17-Aug-2017_14h28m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_121_Scale_Ranking_24-Aug-2017_11h29m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_122_Scale_Ranking_29-Aug-2017_10h24m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_122_Scale_Ranking_29-Aug-2017_10h24m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_123_Scale_Ranking_29-Aug-2017_10h28m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_123_Scale_Ranking_29-Aug-2017_10h28m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_125_Scale_Ranking_29-Aug-2017_12h22m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_125_Scale_Ranking_29-Aug-2017_12h22m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_126_Scale_Ranking_29-Aug-2017_14h8m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_126_Scale_Ranking_29-Aug-2017_14h8m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_127_Scale_Ranking_31-Aug-2017_9h58m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_127_Scale_Ranking_31-Aug-2017_9h58m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_128_Scale_Ranking_04-Sep-2017_10h29m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_128_Scale_Ranking_04-Sep-2017_10h29m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_129_Scale_Ranking_04-Sep-2017_11h44m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_129_Scale_Ranking_04-Sep-2017_11h44m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_130_Scale_Ranking_04-Sep-2017_12h56m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_130_Scale_Ranking_04-Sep-2017_12h56m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_131_Scale_Ranking_04-Sep-2017_13h46m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_131_Scale_Ranking_04-Sep-2017_13h46m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_132_Scale_Ranking_04-Sep-2017_14h55m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_132_Scale_Ranking_04-Sep-2017_14h55m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_133_Scale_Ranking_07-Sep-2017_11h52m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_133_Scale_Ranking_07-Sep-2017_11h52m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_134_Scale_Ranking_07-Sep-2017_14h25m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_134_Scale_Ranking_07-Sep-2017_14h25m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_135_Scale_Ranking_10-Sep-2017_10h55m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_135_Scale_Ranking_10-Sep-2017_10h55m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_136_Scale_Ranking_10-Sep-2017_12h57m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_137_Scale_Ranking_11-Sep-2017_14h30m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_137_Scale_Ranking_11-Sep-2017_14h30m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_138_Scale_Ranking_12-Sep-2017_10h27m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_138_Scale_Ranking_12-Sep-2017_10h27m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_139_Scale_Ranking_13-Sep-2017_11h49m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_139_Scale_Ranking_13-Sep-2017_11h49m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_141_Scale_Ranking_28-Sep-2017_15h19m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_141_Scale_Ranking_28-Sep-2017_15h19m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_142_Scale_Ranking_02-Oct-2017_11h42m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_142_Scale_Ranking_02-Oct-2017_11h42m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_143_Scale_Ranking_02-Oct-2017_12h33m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_143_Scale_Ranking_02-Oct-2017_12h33m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_990_Scale_Ranking_31-Jul-2017_16h59m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_990_Scale_Ranking_31-Jul-2017_16h59m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_998_Scale_Ranking_23-Jul-2017_17h48m.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/edf/bmem_short_998_Scale_Ranking_23-Jul-2017_17h48m.edf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_101_Scale_Familiarity_Ranking_02-Aug-2017_8h57m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_101_Scale_Familiarity_Ranking_02-Aug-2017_9h20m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_101_Scale_Ranking_02-Aug-2017_8h58m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_102_Scale_Familiarity_Ranking_02-Aug-2017_9h29m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_102_Scale_Ranking_02-Aug-2017_8h59m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_103_Scale_Familiarity_Ranking_02-Aug-2017_11h28m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_103_Scale_Ranking_02-Aug-2017_11h4m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_104_Scale_Familiarity_Ranking_02-Aug-2017_11h41m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_104_Scale_Ranking_02-Aug-2017_11h20m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_105_Scale_Familiarity_Ranking_02-Aug-2017_14h59m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_105_Scale_Ranking_02-Aug-2017_14h37m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_106_Scale_Familiarity_Ranking_02-Aug-2017_15h8m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_106_Scale_Ranking_02-Aug-2017_14h43m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_107_Scale_Familiarity_Ranking_03-Aug-2017_10h53m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_107_Scale_Ranking_03-Aug-2017_10h31m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_108_Scale_Familiarity_Ranking_03-Aug-2017_12h52m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_108_Scale_Ranking_03-Aug-2017_12h30m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_109_Scale_Familiarity_Ranking_03-Aug-2017_15h24m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_109_Scale_Familiarity_Ranking_03-Aug-2017_15h49m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_109_Scale_Ranking_03-Aug-2017_15h27m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_110_Scale_Familiarity_Ranking_06-Aug-2017_8h59m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_110_Scale_Ranking_06-Aug-2017_8h34m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_111_Scale_Familiarity_Ranking_06-Aug-2017_10h54m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_111_Scale_Familiarity_Ranking_06-Aug-2017_11h18m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_111_Scale_Ranking_06-Aug-2017_10h56m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_112_Scale_Familiarity_Ranking_07-Aug-2017_10h30m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_112_Scale_Ranking_07-Aug-2017_10h8m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_113_Scale_Familiarity_Ranking_09-Aug-2017_11h36m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_113_Scale_Ranking_09-Aug-2017_11h14m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_113_Scale_Ranking_09-Aug-2017_11h5m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_114_Scale_Familiarity_Ranking_14-Aug-2017_10h53m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_114_Scale_Ranking_14-Aug-2017_10h33m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_115_Scale_Familiarity_Ranking_14-Aug-2017_12h29m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_115_Scale_Ranking_14-Aug-2017_12h8m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_116_Scale_Familiarity_Ranking_15-Aug-2017_11h1m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_116_Scale_Ranking_15-Aug-2017_10h19m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_116_Scale_Ranking_15-Aug-2017_10h30m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_116_Scale_Ranking_15-Aug-2017_10h39m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_117_Scale_Familiarity_Ranking_15-Aug-2017_11h35m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_117_Scale_Ranking_15-Aug-2017_11h11m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_118_Scale_Familiarity_Ranking_17-Aug-2017_14h50m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_118_Scale_Ranking_17-Aug-2017_14h28m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_120_Scale_Familiarity_Ranking_22-Aug-2017_9h35m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_120_Scale_Ranking_22-Aug-2017_9h15m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_121_Scale_Familiarity_Ranking_24-Aug-2017_11h50m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_121_Scale_Ranking_24-Aug-2017_11h20m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_121_Scale_Ranking_24-Aug-2017_11h29m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_122_Scale_Familiarity_Ranking_29-Aug-2017_10h46m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_122_Scale_Ranking_29-Aug-2017_10h24m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_123_Scale_Familiarity_Ranking_29-Aug-2017_10h50m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_123_Scale_Ranking_29-Aug-2017_10h28m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_124_Scale_Familiarity_Ranking_29-Aug-2017_12h58m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_124_Scale_Ranking_29-Aug-2017_12h35m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_125_Scale_Familiarity_Ranking_29-Aug-2017_12h44m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_125_Scale_Ranking_29-Aug-2017_12h22m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_126_Scale_Familiarity_Ranking_29-Aug-2017_14h29m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_126_Scale_Ranking_29-Aug-2017_14h8m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_127_Scale_Familiarity_Ranking_31-Aug-2017_10h19m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_127_Scale_Ranking_31-Aug-2017_9h58m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_128_Scale_Familiarity_Ranking_04-Sep-2017_10h51m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_128_Scale_Ranking_04-Sep-2017_10h29m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_129_Scale_Familiarity_Ranking_04-Sep-2017_12h5m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_129_Scale_Ranking_04-Sep-2017_11h44m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_130_Scale_Familiarity_Ranking_04-Sep-2017_13h21m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_130_Scale_Ranking_04-Sep-2017_12h56m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_131_Scale_Familiarity_Ranking_04-Sep-2017_14h9m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_131_Scale_Ranking_04-Sep-2017_13h46m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_132_Scale_Familiarity_Ranking_04-Sep-2017_15h17m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_132_Scale_Ranking_04-Sep-2017_14h55m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_133_Scale_Familiarity_Ranking_07-Sep-2017_12h12m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_133_Scale_Ranking_07-Sep-2017_11h52m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_134_Scale_Familiarity_Ranking_07-Sep-2017_14h48m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_134_Scale_Ranking_07-Sep-2017_14h25m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_135_Scale_Familiarity_Ranking_10-Sep-2017_11h16m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_135_Scale_Ranking_10-Sep-2017_10h55m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_136_Scale_Familiarity_Ranking_10-Sep-2017_13h18m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_136_Scale_Ranking_10-Sep-2017_12h57m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_137_Scale_Familiarity_Ranking_11-Sep-2017_14h52m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_137_Scale_Ranking_11-Sep-2017_14h30m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_138_Scale_Familiarity_Ranking_12-Sep-2017_10h48m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_138_Scale_Ranking_12-Sep-2017_10h27m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_139_Scale_Familiarity_Ranking_13-Sep-2017_12h10m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_139_Scale_Ranking_13-Sep-2017_11h49m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_140_Scale_Familiarity_Ranking_13-Sep-2017_13h25m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_140_Scale_Ranking_13-Sep-2017_13h5m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_141_Scale_Familiarity_Ranking_28-Sep-2017_15h40m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_141_Scale_Ranking_28-Sep-2017_15h19m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_142_Scale_Familiarity_Ranking_02-Oct-2017_12h3m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_142_Scale_Ranking_02-Oct-2017_11h42m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_143_Scale_Familiarity_Ranking_02-Oct-2017_12h54m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_143_Scale_Ranking_02-Oct-2017_12h33m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_990_Scale_Familiarity_Ranking_31-Jul-2017_17h24m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_990_Scale_Ranking_31-Jul-2017_16h59m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_998_Scale_Familiarity_Ranking_20-Jul-2017_10h12m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_998_Scale_Familiarity_Ranking_20-Jul-2017_10h15m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_998_Scale_Familiarity_Ranking_20-Jul-2017_10h44m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_998_Scale_Familiarity_Ranking_23-Jul-2017_17h12m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_998_Scale_Familiarity_Ranking_23-Jul-2017_17h50m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_998_Scale_Familiarity_Ranking_31-Jul-2017_13h1m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_998_Scale_Ranking_20-Jul-2017_10h10m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_998_Scale_Ranking_20-Jul-2017_10h15m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_998_Scale_Ranking_20-Jul-2017_10h43m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_998_Scale_Ranking_23-Jul-2017_17h11m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_998_Scale_Ranking_23-Jul-2017_17h48m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/output/txt/bmem_short_998_Scale_Ranking_31-Jul-2017_12h57m.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1007.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1013.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1017.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1019.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1027.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1031.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1035.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1050.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1052.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1060.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1073.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1080.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1114.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1127.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1130.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1146.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1173.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1183.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1191.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1192.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1202.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1204.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1210.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1216.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1226.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1246.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1255.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/1262.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2006.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2010.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2015.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2024.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2039.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2041.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2043.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2045.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2053.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2058.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2063.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2089.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2094.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2110.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2112.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2118.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2125.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2149.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2153.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2155.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2164.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2181.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2194.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2209.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2212.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2218.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2229.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2240.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_2/2248.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/101.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/102.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/103.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/104.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/105.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/106.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/107.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/108.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/109.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/110.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/111.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/112.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/113.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/114.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/115.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/116.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/117.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/118.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/119.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/120.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/121.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/122.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/123.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/124.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/125.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/126.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/127.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/129.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/130.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/131.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/132.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/133.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/134.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/135.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/136.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/137.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/138.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/139.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/140.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/141.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/142.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/143.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/144.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/146.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/147.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/148.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/149.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/151.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/152.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/153.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/154.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/155.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/156.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/157.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/158.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/159.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_3/160.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/101_barak_ehud.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/102_beneliezer_binyamin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/103_cabel_eitan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/104_galon_zahava.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/105_gilon_ilan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/106_herzog_yitzhak.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/107_horowitz_nitzan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/108_khenin_dov.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/109_michaeli_meirav.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/110_nachman_shai.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/111_odeh_aiman.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/112_peretz_amir.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/113_rosenthal_mickey.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/114_shafir_stav.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/115_shimon_peres.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/116_shmuli_itzik.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/117_tibi_ahmed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/118_yacimovich_shelly.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/119_zandberg_tamar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/120_zuabi_hanin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/201_baron_roni.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/202_cahlon_moshe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/203_cohen_meir.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/204_galant_yoav.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/205_german_yael.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/206_hasson_israel.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/207_lapid_yair.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/208_livnee_zipi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/209_mitzna_amram.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/210_mofaz_shaul.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/211_molla_shlomo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/212_olmert_ehud.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/213_perry_yaakov.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/214_piron_shai.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/215_rozbozov_yoel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/216_sharom_ariel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/217_shelach_ofer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/218_shitrit_meir.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/219_stern_eliezer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/220_tamnu_shata_penina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/301_benet_naftali.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/302_danon_danny.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/303_deri_arye.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/304_dicter_abraham.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/305_erdan_gilad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/306_gafni_moshe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/307_hazan_oren.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/308_hotovely_tzipi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/309_katz_yisrael.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/310_kirshenbaum_faina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/311_liberman_avigdor.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/312_livnat_limor.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/313_lizman_yaakov.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/314_netanyahu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/315_regev_miri.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/316_saar_gidon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/317_shaked_ayelet.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/318_shalom_silvan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/319_steinitz_yuval.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bmm_short_data/stim/Stim_6/320_yaalon_moshe.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build_dataset.py" afterPath="$PROJECT_DIR$/build_dataset.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experiment_parser.py" afterPath="$PROJECT_DIR$/experiment_parser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scale_ranking_bmm_short_data/output/txt/bmem_short_101_Scale_Ranking_02-Aug-2017_8h58m.txt" afterPath="$PROJECT_DIR$/scale_ranking_bmm_short_data/output/txt/bmem_short_101_Scale_Ranking_02-Aug-2017_8h58m.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -407,25 +14,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="experiment_parser.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/experiment_parser.py">
+      <file leaf-file-name="build_dataset.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build_dataset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="679">
-              <caret line="82" column="28" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+            <state relative-caret-position="629">
+              <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build_dataset.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build_dataset.py">
+      <file leaf-file-name="experiment_parser.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/experiment_parser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+            <state relative-caret-position="442">
+              <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -437,6 +44,9 @@
     <findStrings>
       <find>TRIAL_START</find>
       <find>parse_folder</find>
+      <find>TRIAL_END</find>
+      <find>parse_bmi</find>
+      <find>parse_txt_line</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -546,7 +156,7 @@
     <entry file="file://$PROJECT_DIR$/build_dataset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
-          <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -555,8 +165,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/experiment_parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="82" column="28" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        <state relative-caret-position="442">
+          <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
