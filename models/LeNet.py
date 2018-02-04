@@ -1,21 +1,20 @@
-try:
-    import torch
-    from torch import nn, optim
-    from torch.autograd import Variable
-    import torch.nn.functional as F
-    use_torch = False
-except ImportError:
-    use_torch = False
+import torch
+from torch import nn, optim
+from torch.autograd import Variable
+import torch.nn.functional as F
 
 
 class LeNet(nn.Module):
     def __init__(self, LR=1e-3):
-    	super(LeNet, self).__init__()
-    	self.conv1 = nn.Conv2d(1, 6, (5,5), padding=2)
-    	self.conv2 = nn.Conv2d(6, 16, (5,5))
-    	self.fc1   = nn.Linear(16*5*5, 120)
-    	self.fc2   = nn.Linear(120, 84)
-    	self.fc3   = nn.Linear(84, 1)
+        super(LeNet, self).__init__()
+        self.conv1 = nn.Conv2d(1, 6, (5,5), padding=2)
+        self.conv2 = nn.Conv2d(6, 16, (5,5))
+        self.fc1   = nn.Linear(16*5*5, 120)
+        self.fc2   = nn.Linear(120, 84)
+        self.fc3   = nn.Linear(84, 1)
+        
+        self.criterion = nn.BCELoss()
+
 
     def forward(self, x):
     	x = F.max_pool2d(F.relu(self.conv1(x)), (2,2))

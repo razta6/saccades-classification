@@ -8,10 +8,7 @@ def create_dataset(trials):
 
     for i in range(num_trials):
         trial = trials[i].to_array()
-        x_len = trial.shape[0] * trial.shape[1]
         X.append(trial.flatten())
         Y.append(trials[i].stim_type_ind)
 
     return np.array(X), np.array(Y)
-
-
