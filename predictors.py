@@ -8,6 +8,7 @@ import numpy as np
 from sklearn.utils import shuffle
 from sklearn.metrics import accuracy_score
 
+import matplotlib.pyplot as plt
 
 def split_train_test(X, Y, train_ratio):
 	train_size = int(len(X) * train_ratio)
@@ -40,7 +41,11 @@ def train(X, Y, net, LR, epochs, TRAIN_RATIO, IMG_DIM):
     X_train = torch.from_numpy(X_train)
     X_test = torch.from_numpy(X_test)
     Y_train = torch.from_numpy(Y_train)
+    Y_test_tensor = torch.from_numpy(Y_test)
     Y_train = Y_train.view(Y_train.shape[0], -1)
+    Y_test_tensor = Variable(Y_test_tensor, requires_grad=False)
+    Y_test_tensor = Y_test_tensor.type(torch.FloatTensor)
+    Y_test_tensor = Y_test_tensor.view(Y_test_tensor.shape[0], -1)
     print(X_train.size(), Y_train.size())
     print() 
     
@@ -55,6 +60,10 @@ def train(X, Y, net, LR, epochs, TRAIN_RATIO, IMG_DIM):
     index = 0
     batch_size = 32
         
+    train_loss_vec = []
+    test_loss_vec = []
+    accuracy_vec = []
+    
     
     # training phase
     for epoch in range(epochs):
@@ -79,13 +88,28 @@ def train(X, Y, net, LR, epochs, TRAIN_RATIO, IMG_DIM):
             test_data = Variable(X_test.clone())
             test_data = test_data.type(torch.FloatTensor)
             out = net(test_data)
+            test_loss = criterion(out, Y_test_tensor)
+            
             out_np = np.concatenate(out.data.numpy())
             y_pred =  out_np > threshold
     
             acc = accuracy_score(Y_test, y_pred)
-    
-            print('Epoch [%d/%d] Train Loss: %f, Test Accuracy: %f'
-                %(epoch+1, epochs, mini_loss.data[0], acc))
+            
+            train_loss_vec.append(mini_loss.data[0])
+            test_loss_vec.append(test_loss.data[0])
+            accuracy_vec.append(acc)
+            
+            plt.plot(train_loss_vec)
+            plt.plot(test_loss_vec)
+            plt.savefig('figs/train_test_loss.png')
+            plt.close()
+            
+            plt.plot(accuracy_vec)
+            plt.savefig('figs/test_accuracy.png')
+            plt.close()
+            
+            print('Epoch [%d/%d] Train Loss: %f, Test Loss: %f, Test Accuracy: %f'
+                %(epoch+1, epochs, mini_loss.data[0], test_loss.data[0], acc))
 
     print()
     print('Done!')
