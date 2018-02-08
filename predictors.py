@@ -63,6 +63,7 @@ def train(X, Y, net, LR, epochs, TRAIN_RATIO, IMG_DIM):
     train_loss_vec = []
     test_loss_vec = []
     accuracy_vec = []
+    test_interval = 25
     
     
     # training phase
@@ -84,7 +85,7 @@ def train(X, Y, net, LR, epochs, TRAIN_RATIO, IMG_DIM):
         mini_loss.backward()
         optimizer.step()
     
-        if (epoch+1) % 10 == 0:
+        if (epoch) % test_interval == 0:
             test_data = Variable(X_test.clone())
             test_data = test_data.type(torch.FloatTensor)
             out = net(test_data)
@@ -99,12 +100,19 @@ def train(X, Y, net, LR, epochs, TRAIN_RATIO, IMG_DIM):
             test_loss_vec.append(test_loss.data[0])
             accuracy_vec.append(acc)
             
-            plt.plot(train_loss_vec)
-            plt.plot(test_loss_vec)
+            plt.plot(train_loss_vec, label='Train')
+            plt.plot(test_loss_vec, label='Test')
+            plt.xlabel('Epoch')
+            plt.ylabel('Loss')
+            plt.legend()
+            plt.xticks(np.arange(len(test_loss_vec)), [i*test_interval for i in range(len(test_loss_vec)) if (i*test_interval*4)%100==0], rotation=45)
             plt.savefig('figs/train_test_loss.png')
             plt.close()
             
             plt.plot(accuracy_vec)
+            plt.xlabel('Epoch')
+            plt.ylabel('Accuracy (%)')
+            plt.xticks(np.arange(len(test_loss_vec)), [i*test_interval for i in range(len(test_loss_vec)) if (i*test_interval*4)%100==0], rotation=45)
             plt.savefig('figs/test_accuracy.png')
             plt.close()
             

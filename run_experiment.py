@@ -43,7 +43,7 @@ IMG_DIM = 400
 trials = experiment.get_trials(list_type='all')
 X, Y = pixel_data.create_dataset(trials, binary=True)
 print(X.shape, Y.shape)
-net = LeNet.LeNet(LR=LR)
+net = LeNet.LeNet_binary(LR=LR)
 print(net)
 
 predictors.train(X, Y, net, LR, EPOCHS, TRAIN_RATIO, IMG_DIM)
