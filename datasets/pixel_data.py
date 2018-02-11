@@ -20,8 +20,8 @@ def create_dataset(trials, binary=True):
     X, Y = np.array(X), np.array(Y)
     
     Y[Y==2] = 0
-    Y[Y==3] = 2
-    Y[Y==6] = 1
+    Y[Y==3] = 1
+    Y[Y==6] = 2
     
     if binary:
         idx = np.where(Y!=2)
