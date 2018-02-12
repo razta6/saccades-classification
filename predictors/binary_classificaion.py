@@ -20,7 +20,7 @@ def split_train_test(X, Y, train_ratio):
 	return X_train, Y_train, X_test, Y_test
 
 
-def train(X, Y, net, LR, epochs, TRAIN_RATIO, IMG_DIM):
+def train(X, Y, net, LR, epochs, TRAIN_RATIO, IMG_DIM, heatmap=False):
     # arrange the data
     print('Train\Test split')
     X, Y = shuffle(X, Y)
@@ -28,11 +28,13 @@ def train(X, Y, net, LR, epochs, TRAIN_RATIO, IMG_DIM):
     
     X_train = X_train.reshape(X_train.shape[0], 1, IMG_DIM, IMG_DIM)
     X_train = X_train.astype(float)
-    #X_train /= 255.0
+    if heatmap:
+        X_train /= 255.0
     
     X_test = X_test.reshape(X_test.shape[0], 1, IMG_DIM, IMG_DIM)
     X_test = X_test.astype(float)
-    #X_test /= 255.0
+    if heatmap:
+        X_test /= 255.0
     
     Y_train = Y_train.astype(int)
 
