@@ -41,6 +41,7 @@ class Experiment:
 
         if not self.valid:  # it's not an else statement because of the cluster extraction
             logging.warning('EXPERIMENT INVALID')
+            print('EXPERIMENT INVALID')
             logging.info(self.error)
 
         self.log_summary()
@@ -49,6 +50,7 @@ class Experiment:
         log_fname = self.name + '.log'
         logging.basicConfig(filename=log_fname, filemode='w', level=logging.DEBUG)
         logging.info('Started')
+        print('Started')
 
     def add_subject(self, subject):
         self.subjects.append(subject)
@@ -140,6 +142,8 @@ class Experiment:
             valid = subject.subject_post_process()
             if not valid:
                 logging.warning('Invalid subject: ' + subject.get_error() + ' (subject = %d)' % subject.get_id())
+                print('Invalid subject: ' + subject.get_error() + ' (subject = %d)' % subject.get_id())
+
 
         subjects = self.get_subjects()
         if len(subjects) == 0:
@@ -166,6 +170,7 @@ class Experiment:
         valid_num_of_subjects = self.get_num_subjects()
         invalid_num_of_subjects = self.get_num_subjects(False)
         logging.info('Number of subjects: %d/%d valids' % (valid_num_of_subjects, invalid_num_of_subjects))
+        print('Number of subjects: %d/%d valids' % (valid_num_of_subjects, invalid_num_of_subjects))
 
         # get all trials (only from valid subjects)
         valid_num_of_trials = 0

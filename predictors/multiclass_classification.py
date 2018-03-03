@@ -96,7 +96,6 @@ def train(X, Y, net, LR, epochs, TRAIN_RATIO, IMG_DIM, heatmap=False):
             
             _, predicted = torch.max(out.data, 1)
             total = Y_test_tensor.size(0)
-            print(type(predicted), type(Y_test_tensor))
             correct = (predicted == Y_test_tensor.data).sum()
             acc = correct / total
     
